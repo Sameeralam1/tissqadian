@@ -527,7 +527,7 @@ li>a:only-child:after {
 
 /* banner */
 .mian-content-wthree {
-    background: url(.) no-repeat center;
+    background: url(../images/1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
