@@ -204,8 +204,9 @@ nav a {
 
 /* Background color change on Hover */
 nav a:hover {
-    color: #000;
+    color: red;
     opacity: .8;
+    background-color: lightblue;
 }
 
 /* Hide Dropdowns by Default
