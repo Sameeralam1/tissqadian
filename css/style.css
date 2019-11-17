@@ -231,7 +231,7 @@ nav ul ul {
     -moz-border-radius: 4px;
     z-index: 9;
     /* has to be the same number as the "line-height" of "nav a" */
-	-webkit-box-shadow: 0px -1px 5px 0px rgba(143,143,143,0.72);
+    -webkit-box-shadow: 0px -1px 5px 0px rgba(143,143,143,0.72);
 -moz-box-shadow: 0px -1px 5px 0px rgba(143,143,143,0.72);
 box-shadow: 0px -1px 5px 0px rgba(143,143,143,0.72);
 }
@@ -259,7 +259,7 @@ nav ul ul li a {
     letter-spacing: 1px;
 }
 
-/* Second, Third and more Tiers	
+/* Second, Third and more Tiers 
  * We move the 2nd and 3rd etc tier dropdowns to the left
  * by the amount of the width of the first tier.
 */
@@ -713,7 +713,7 @@ a.service-btn:hover,
 }
 
 .team-img-1 {
-    background: url(../images/p1.jpg) no-repeat center;
+    background: url(../images/p2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -722,7 +722,7 @@ a.service-btn:hover,
 }
 
 .team-img-2 {
-    background: url(../images/p2.jpg) no-repeat center;
+    background: url(../images/g8.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
